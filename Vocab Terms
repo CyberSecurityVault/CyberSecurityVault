@@ -1,0 +1,73 @@
+3G (third generation)  Third-generation mobile phone service released in the early 2000s that supported up to 384 Kbps.
+    4G (fourth generation) Fourth-generation mobile phone service that is characterized by an all-IP network for both data and voice transmission.
+    5G (fifth generation) mobile phone standard requires minimal throughput of 1 Gbps and maxing out at 20 Gbps download and 10 Gbps upload.
+    active-active redundancy redundancy strategy in which all redundant resources are kept active at all times and work is distributed among them.
+    active-passive redundancy redundancy strategy in which only one or a few redundant resources are kept active at all times, with backup devices on standby ready to fill in if they’re needed.
+    AD (administrative distance) A number indicating a protocol’s reliability, with lower values being given higher priority. 
+    AS (autonomous system) A collection of connected IP routing prefixes under control of one or more network operators. 
+    Asymmetrical transmission technology that offers faster download speeds than upload speeds.
+    asymmetrical routing A routing challenge caused when messages going in one direction in a conversation travel a different path than messages going in the other direction.
+    bandwidth speed tester A website that tests the current upload and download speeds on a WAN connection.
+    best path The most efficient route from one network to another, as calculated by a router.
+    BGP (Border Gateway Protocol)  this path-vector routing protocol is the only current EGP (exterior gateway protocol) and is capable of considering many factors in its routing metrics.
+    border router A router that connects an autonomous system with an outside network
+    Broadband A WAN technology where the network media and available bandwidth are shared between multiple customers.
+    cable broadband Broadband Internet access provided over the coaxial cable wiring used for TV signals.
+    cable modem A device that modulates and demodulates signals for transmission and reception via cable wiring.
+    CDMA (Code Division Multiple Access)  cellular standard that uses spread-spectrum technology, in which a signal is spread over a wide bandwidth 
+    cell site The combination of a cellular antenna array and its base station.
+    convergence time The time it takes for routers on a network to recognize and adjust to configuration changes or a network outage.
+    core router A router that directs data between networks within the same autonomous system.
+    CRC error An error statistic that indicates messages are being damaged in transit.
+    default route A backup route, usually to another router, used when a router cannot determine a path to a message’s destination.
+    DIA (dedicated Internet access) A WAN service where the network media or a portion of its available bandwidth is dedicated to a single customer 
+    distance-vector routing protocol used to determine the best route for data based on the distance to a destination.
+    DOCSIS (Data Over Cable Service Interface Specifications) Cable-Labs that standardized cable broadband service.
+    DSL (digital subscriber line) WAN connection technology that operates over the PSTN
+    DSL modem A device that modulates a DSL signal between the ISP’s telephone line and the customer’s Ethernet network.
+    dynamic route A route automatically calculated by the router to determine the best path between two networks. 
+    edge router 
+    EGP (exterior gateway protocol) A router that connects an autonomous system with an outside network 
+    EIGRP (Enhanced Interior Gateway Routing Protocol) An advanced distance-vector protocol developed by Cisco that combines some of the features of a link-state protocol and so is sometimes referred to as a hybrid protocol.
+    exterior router A router that directs data between autonomous systems, 
+    FHRP (First Hop Redundancy Protocol) A type of protocol configured on a router or layer 3 switch to provide a single VIP
+    gateway of last resort router on a network that accepts all unroutable messages from other routers.
+    Giant A frame that is too large and is dropped. 
+    GSM (Global System for Mobile Communications) open standard for cellular networks that uses digital communication of data separated by time slots on a channel.
+    HFC (hybrid fiber coaxial) physical infrastructure where fiber-optic cabling connects the cable company’s distribution center to distribution hubs and then to optical nodes near customers;
+    hybrid routing protocol A routing protocol that exhibits characteristics of both distance-vector and link-state routing protocols.
+    IGP (interior gateway protocol) A type of routing protocol, such as OSPF and IS-IS, used by core routers and edge routers within autonomous systems.
+    Interconnection A leased line from a customer’s location or from their ISP to a PoP (point of presence), or colocation, which provides connection with other providers (such as cloud providers).
+    interior router A router that directs data between networks within the same autonomous system
+    IS-IS (Intermediate System to Intermediate System) A link-state routing protocol that uses a best-path algorithm. 
+    leased line Dedicated Internet bandwidth provided over fiber-optic connections.
+    link-state routing protocol A type of routing protocol that enables routers to share performance and status information about their connected links with routers throughout the network, 
+    local loop The part of a phone system that connects a customer site with a telecommunications carrier’s switching facility.
+    long-haul connection A long-distance connection, such as across hundreds of miles, that supports the Internet backbone.
+    LTE (Long-Term Evolution) A transitional cellular network technology between 3G and 4G that takes advantage of some improved 4G technologies to exceed 3G speeds but does not reach 4G throughput requirements.
+    LTE-A (LTE-Advanced) The latest version of LTE, with theoretical downlink rates approaching true 4G speeds up to 1 Gbps and uplink rates as high as 100 Mbps,
+    Modem A modulation/demodulation device that converts between digital and analog signals.
+    MON (metropolitan optical network) A dense, localized grid of junctions and fiber cables designed to make direct fiber connections available to as many customers as possible.
+    MPLS (multiprotocol label switching) A type of switching that enables multiple types of layer 3 protocols to travel over any one of several connection-oriented layer 2 protocols.
+    OSPF (Open Shortest Path First) An IGP (interior gateway protocol) and link-state routing protocol that improves on some of the limitations of RIP (Routing Information Protocol) and can coexist with RIP on a network.
+    Overhead The burden placed on the underlying network to support a routing protocol.
+    private-direct connection provides connection with other providers (such as cloud providers).
+    PSTN (public switched telephone network) The network of lines and carrier equipment that provides wired telephone service to most homes and businesses.
+    QoS (quality of service) A group of techniques for adjusting the priority a network assigns to various types of transmissions.
+    RIP (Routing Information Protocol) The oldest routing protocol that is still widely used. 
+    RIPv2 (Routing Information Protocol, version 2) An updated version of the original RIP routing protocol that generates less broadcast traffic and functions more securely than its predecessor.
+    Route 
+    routing cost A value assigned to a particular route as judged by the network administrator
+    routing loop A failure of a routing protocol that results in messages being transmitted continuously in a loop along the same paths and never reaching their destinations; 
+    routing metric Properties of a route used by routing protocols to determine the best path to a destination when various paths are available. 
+    routing protocol A set of standards that determines how routers communicate with each other about network status and connections.
+    routing table A database stored in a router’s memory that maintains information about the location of hosts and networks and the best paths for forwarding packets between them.
+    Runt A message that is so small it is dropped.
+    SD-WAN (software-defined wide area network) Abstracted, centralized control of networking devices that manage network functions across a diverse infrastructure.
+    SIM (Subscriber Identity Module) card 
+    Smartjack A microchip installed in a cellular device to hold data about the subscription a user has with the cellular carrier.
+    static route A route manually configured by a network administrator to direct messages along specific paths between networks.
+    Symmetrical A characteristic of transmission technology that offers the same download speeds as upload speeds.
+    TDMA (time division multiple access) A method of multiplexing in which signals from several sources on a channel are separated by timeslots.
+ 
+
